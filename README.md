@@ -61,8 +61,8 @@ Download the project and run it.
 
 
 ## Status
-Project is: *in progress*.
+Project is:  _finished_.
 
 ## Contact
 Created by [Krzysztof Makówka](https://github.com/KrzyMK).
-<br>E-mail: anor.spam@gmail.com -feel free to contact me!
+<br>E-mail: anor.spam@gmail.com -Just click!
