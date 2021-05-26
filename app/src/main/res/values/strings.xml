@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A2</string>
+    <string name="delete">Delete</string>
+    <string name="imie">imie</string>
+    <string name="nazwisko">nazwisko</string>
+    <string name="box">box</string>
+    <string name="imageView">imageView</string>
+</resources>
